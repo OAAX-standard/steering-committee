@@ -27,7 +27,9 @@ Meeting agendas and notes are in [meeting-notes](meeting-notes), and the release
   working across the vendor backends.
 - **Documentation.** Keeps the spec and integration guides current as the project changes.
 - **Tutorials and examples.** Maintains walkthroughs and sample integrations showing how to use OAAX with real hardware backends.
-- **Core development.** TODO
+- **Core development.** Maintains the OAAX runtime interface and conversion toolchains, plus the
+  shared utility libraries and reusable modules they depend on — the spec's reference
+  implementation, not a single vendor backend.
 - **Marketing.** Public messaging about the project — blog posts, talks, and social presence.
 
 ## How it works
