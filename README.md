@@ -10,10 +10,10 @@ Meeting agendas and notes are in [meeting-notes](meeting-notes), and the release
 
 | Name | Affiliation | Role |
 | ---- | ----------- | ---- |
-| Ayoub Assis | Network Optix | Hardware vendor liaison, Community relations, LF liaison, Infrastructure and CI, Marketing |
-| Josef Joubert| Network Optix | |
-| Maxim Podstrechny | Network Optix | |
-| Robin van Emden | Network Optix |  |
+| Ayoub Assis | Network Optix | Hardware vendor liaison, Core development |
+| Josef Joubert| Network Optix | Core development, Tutorials and examples|
+| Maxim Podstrechny | Network Optix | Tutorials and examples, Infrastructure and CI, Documentation |
+| Robin van Emden | Network Optix | LF liaison, Community relations, Marketing |
 
 ## Roles
 
@@ -26,8 +26,8 @@ Meeting agendas and notes are in [meeting-notes](meeting-notes), and the release
 - **Infrastructure and CI.** Keeps the build pipelines, CI runners, and package/artifact hosting
   working across the vendor backends.
 - **Documentation.** Keeps the spec and integration guides current as the project changes.
-- **Tutorials and examples.** Maintains walkthroughs and sample integrations showing how to use
-  OAAX with real hardware backends.
+- **Tutorials and examples.** Maintains walkthroughs and sample integrations showing how to use OAAX with real hardware backends.
+- **Core development.** TODO
 - **Marketing.** Public messaging about the project — blog posts, talks, and social presence.
 
 ## How it works
