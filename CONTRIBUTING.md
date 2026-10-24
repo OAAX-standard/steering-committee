@@ -9,7 +9,7 @@
 
 ## Roadmap changes
 
-1. Propose the change as an issue labelled `tsc-agenda`, describing the change and its
+1. Propose the change with the "TSC agenda" issue form (it applies the `tsc-agenda` label), describing the change and its
    compatibility impact.
 2. It's decided in a TSC meeting and recorded in that meeting's notes (see above).
 3. Once the notes are merged, open a separate PR updating

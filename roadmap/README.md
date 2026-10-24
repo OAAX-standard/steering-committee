@@ -3,7 +3,7 @@
 What the project intends to ship, and what it is considering. Dates are targets set by the
 TSC, not commitments.
 
-To propose something, open an issue labelled `tsc-agenda`; it is discussed at the monthly
+To propose something, open an issue with the "TSC agenda" form (it applies the `tsc-agenda` label); it is discussed at the monthly
 meeting, and anything agreed is added here in a PR linking back to the notes that decided it.
 Every item is re-flagged once a year, and anything untouched for a year is dropped.
 

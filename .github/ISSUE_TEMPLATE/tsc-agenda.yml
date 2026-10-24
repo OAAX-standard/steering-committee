@@ -1,0 +1,15 @@
+name: TSC agenda
+description: Ask the steering committee to make a decision.
+labels: [tsc-agenda]
+body:
+  - type: input
+    id: decision
+    attributes:
+      label: The decision you want, in one line
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and compatibility impact
+      description: Why, which repositories or specification sections are affected, and whether existing runtimes, toolchains and hosts keep working unchanged.
