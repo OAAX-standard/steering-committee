@@ -44,7 +44,7 @@ Meeting agendas and notes are in [meeting-notes](meeting-notes), and the release
   the notes with its vote count.
 - **Notes.** The moderator rotates, and whoever moderates commits the notes within 48 hours.
   Merged notes are corrected by a new PR, never rewritten.
-- **Agenda.** Open an issue labelled `tsc-agenda` saying in one line what decision you want
+- **Agenda.** Open an issue with the "TSC agenda" form (it applies the `tsc-agenda` label) saying in one line what decision you want
   the TSC to make.
 
 Meetings are governed by the
