@@ -1,6 +1,6 @@
 # OAAX Release Policy
 
-**Status: proposed.** Applies from OAAX 2.0, pending ratification by the TSC (next meeting, moved back from 2026-11-03, date to be confirmed).
+**Status: proposed.** Applies from OAAX 2.0, pending ratification by the TSC (meeting of 2026-11-10).
 Drafted with AI assistance (Claude) at the request of the TSC liaison; review it like any other change.
 
 Scope: the specification, the reference implementation, the examples, the vendor runtimes and conversion
