@@ -46,6 +46,9 @@ Meeting agendas and notes are in [meeting-notes](meeting-notes), and the release
   Merged notes are corrected by a new PR, never rewritten.
 - **Agenda.** Open an issue with the "TSC agenda" form (it applies the `tsc-agenda` label) saying in one line what decision you want
   the TSC to make.
+- **Membership.** Any member may propose a new member by opening a "TSC agenda" issue with the
+  candidate's name, organization and a role from [Roles](#roles). The TSC decides under the
+  Decisions rule above. An accepted candidate is added to the Members table in a separate PR.
 
 Meetings are governed by the
 [LF Antitrust Policy](https://www.linuxfoundation.org/legal/antitrust-policy) and the project
