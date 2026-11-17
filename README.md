@@ -14,7 +14,7 @@ Meeting agendas and notes are in [meeting-notes](meeting-notes), and the release
 | Josef Joubert| Network Optix | Core development, Tutorials and examples|
 | Maxim Podstrechnyy | Network Optix | Tutorials and examples, Infrastructure and CI, Documentation |
 | Robin van Emden | Network Optix | LF liaison, Community relations, Marketing |
-| Francesco Mattioli | DEEPX | Marketing, Hardware vendor liaison (DEEPX) |
+| Francesco Mattioli | DEEPX | Marketing, Ecosystem and partnerships |
 
 ## Roles
 
@@ -32,6 +32,8 @@ Meeting agendas and notes are in [meeting-notes](meeting-notes), and the release
   shared utility libraries and reusable modules they depend on — the spec's reference
   implementation, not a single vendor backend.
 - **Marketing.** Public messaging about the project — blog posts, talks, and social presence.
+- **Ecosystem and partnerships.** Grows the OAAX ecosystem: brings in new vendors, partners and
+  adopters, and keeps those relationships active.
 
 ## How it works
 
