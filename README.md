@@ -12,7 +12,7 @@ Meeting agendas and notes are in [meeting-notes](meeting-notes), and the release
 | ---- | ----------- | ---- |
 | Ayoub Assis | Network Optix | Hardware vendor liaison, Core development |
 | Josef Joubert| Network Optix | Core development, Tutorials and examples|
-| Maxim Podstrechny | Network Optix | Tutorials and examples, Infrastructure and CI, Documentation |
+| Maxim Podstrechnyy | Network Optix | Tutorials and examples, Infrastructure and CI, Documentation |
 | Robin van Emden | Network Optix | LF liaison, Community relations, Marketing |
 
 ## Roles
