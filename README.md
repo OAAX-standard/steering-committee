@@ -14,6 +14,7 @@ Meeting agendas and notes are in [meeting-notes](meeting-notes), and the release
 | Josef Joubert| Network Optix | Core development, Tutorials and examples|
 | Maxim Podstrechnyy | Network Optix | Tutorials and examples, Infrastructure and CI, Documentation |
 | Robin van Emden | Network Optix | LF liaison, Community relations, Marketing |
+| Francesco Mattioli | DEEPX | Marketing, Hardware vendor liaison (DEEPX) |
 
 ## Roles
 
